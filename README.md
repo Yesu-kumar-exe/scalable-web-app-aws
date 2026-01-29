@@ -34,3 +34,9 @@ Successfully deployed a fault-tolerant and scalable web application on AWS.
 
 ## Screenshots
 Screenshots are attached in the screenshots folder.
+
+
+## 🎥 Project Demo Video
+Watch the working demo of the scalable web application here:
+
+▶️ Demo Video: [https://your-video-link-here](https://drive.google.com/file/d/1GAe2YRKJDXoeVBu8xAwBsFAJ0_5L_1qj/view?usp=sharing)
